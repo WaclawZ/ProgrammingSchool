@@ -1,0 +1,6 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+
+<a href="HomePage">Strona glowna</a>
+<a href="Groups">Grupy</a>
+<a href="AdminPanel">Panel administratora</a>
